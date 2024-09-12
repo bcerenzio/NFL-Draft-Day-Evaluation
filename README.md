@@ -3,7 +3,7 @@
 </h1>
 <h3>
   
-- Utilizing draft data from nfl_data_py to evaluate historical trends from the draft
+- Utilizing draft data from nfl_data_py to evaluate historical trends (1991-2011) from the draft
   
 - Investigated where each positions maximized their value in the draft relative to their pick value (obtained from OverTheCap.com)
 
